@@ -38,4 +38,4 @@ The project uses fundamental C++ concepts, including:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MuayadFTAi/Student-Management-System.git
+git clone https://github.com/MuayadFTAi/StudentManagementSystem.git
