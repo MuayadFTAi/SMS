@@ -32,10 +32,10 @@ The project uses fundamental C++ concepts, including:
 - Conditional statements
 - Functions
 - Basic record management
-- 
+ 
 ## Note
 - Function Only Takes One Name
-- 
+ 
 ## How to Run
 
 1. Clone the repository:
